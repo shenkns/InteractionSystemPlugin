@@ -1,0 +1,33 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Interaction System",
+	"Description": "Replicated system to create Interaction chains",
+	"Category": "Gameplay",
+	"CreatedBy": "shenkns",
+	"CreatedByURL": "",
+	"DocsURL": "https://github.com/shenkns/InteractionSystemPlugin",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/30228865315c4d45a3331d6dd14ee138",
+	"SupportURL": "https://discord.gg/hVMG8ZVMxn",
+	"EngineVersion": "5.1",
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "InteractionSystem",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"WhitelistPlatforms":
+			[
+				"Win64",
+				"Android",
+				"IOS",
+				"Mac",
+				"Linux"
+			]
+		}
+	]
+}
